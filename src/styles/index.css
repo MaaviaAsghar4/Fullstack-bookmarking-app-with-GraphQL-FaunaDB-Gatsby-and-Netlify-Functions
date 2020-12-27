@@ -1,0 +1,10 @@
+body {
+  margin: 0px !important;
+  padding: 0px !important;
+  overflow-x: hidden !important;
+  background-color: #f7f7f7 !important;
+}
+
+* {
+  box-sizing: border-box !important;
+}
